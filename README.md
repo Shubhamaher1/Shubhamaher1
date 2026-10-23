@@ -11,7 +11,7 @@ MY Mission To Make Top Most Organization
 - 😄 Pronouns: HE
 - ⚡ Fun fact: Nothing 😄 
 <hr />
-<table align="center"><tr ><td valign="top" width="20%">
+
 
 
   
